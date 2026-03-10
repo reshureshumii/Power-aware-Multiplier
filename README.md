@@ -9,16 +9,16 @@ Booth Multiplier (CSA + Pipeline)
 Design flow
 
 Show workflow:
-Architecture Design
-↓
-RTL Implementation
-↓
-Simulation
-↓
-Logic Synthesis
-↓
-Power / Area / Timing Analysis
-↓
+Architecture Design >
+
+RTL Implementation >
+
+Simulation >
+
+Logic Synthesis >
+
+Power / Area / Timing Analysis >
+
 PDP Comparison
 
 Results summary table
